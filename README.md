@@ -18,7 +18,7 @@ Através deste pude aprender mais sobre Html e Css, fiz este projeto somente olh
 - `Netlify`
 
 ## Link to access the project...
-App no ar: 
+App no ar: https://spotifycloneima.netlify.app/
 
 ## Developer.
 
